@@ -363,19 +363,80 @@
 
 ###----------------------------------------------------
 
-num1, num2 = float(input("Ingresa el primer numero: ")), float(input("Ingresa el segundo numero: "))
+# num1, num2 = float(input("Ingresa el primer numero: ")), float(input("Ingresa el segundo numero: "))
 
-n1_mayor_n2, n2_mayor_n1, n2_equal_n1 = num1 > num2, num1 < num2, num1 == num2
+# n1_mayor_n2, n2_mayor_n1, n2_equal_n1 = num1 > num2, num1 < num2, num1 == num2
 
-if n1_mayor_n2:
-    # valor 1
-    print("numero 1 es el mayor")
-elif n2_mayor_n1:
-        # valor 2
-        print("numero 2 es el mayor")
-elif n2_equal_n1:
-        # valor 3
-        print("Los dos numeros son iguales")
+# if n1_mayor_n2:
+#     # valor 1
+#     print("numero 1 es el mayor")
+# elif n2_mayor_n1:
+#         # valor 2
+#         print("numero 2 es el mayor")
+# elif n2_equal_n1:
+#         # valor 3
+#         print("Los dos numeros son iguales")
+
+##---- ACTIVIDAD DE REPASO ----##
+
+# num = float(input("Coloca un numero numerico: "))
+
+# if num == 0:
+#     print("El numero es 0")
+# elif (num % 2 == 0):
+#     print("El numero es par")
+# else:
+#     print("El numero es impar")
+
+# num = float(input("Coloca un numero numerico: ")) ## 0
+
+# if (num % 2 == 0):
+#      print("El numero es par")
+# elif num == 0:
+#     print("El numero es 0")
+   
+
+# Si la variable num almacena un 0 que arroja
+
+# a. el numero es par 
+# b. eñ numero es 0 
+
+
+### ----- Estrucuta de control -----###
+
+# if condición:
+     # código a ejecutar si la condición es verdadera
+# elif otra_condición:
+     # código a ejecutar si la otra condición es verdadera
+# else:
+    # código a ejecutar si ninguna condición anterior es verdadera
+
+
+#################################################################
+
+# Reto 20: Calcular el índice de masa corporal (IMC) y clasificarlo.
+
+## Operacion // Peso entre altura elevado a la dos
+
+## 18.5 Peso Bajo
+## 18.6 a 24.9 Peso normal
+## 25 a 29.9 Sobrepeso
+## 30 para arriba obesidad
+
+
+#######################################################
+
+# Reto 21: Calificación escolar
+# Escribe un programa que pida al usuario una calificación (número entre 0 y 100) y determine la letra correspondiente a esa calificación según la escala siguiente:
+
+# A[ª] (90-100)
+# B (80-89)
+# C (70-79)
+# D (60-69)
+# F (0-59)
+
+# hallar el numero mayor de 3 numeros
+
 
 # Condicional Multiple
 
