@@ -442,3 +442,177 @@
 
 
 
+
+
+
+# Condicional Simple
+
+# if ():
+
+# Condicional doble 
+
+# if ():
+# else():
+
+# Condicional anidado
+
+# if ():
+#     if ():
+# else:
+#     if ():
+
+# Condicional Multiple
+
+# if ():
+# elif ():
+# elif ():
+# else:
+
+#####################################
+
+# match case:
+#     case 1:
+#     case 2:
+#     case _:
+
+# num = "World"
+
+# match num:
+#      case "Hello world":
+#           print("Hello world")
+#      case "Hello":
+#           print("Hello")
+#      case "World":
+#           print("world")
+#      case _:
+#           print("No pusiste el numero correcto")
+
+#############################################################
+
+# Días de la Semana de lunes a domingo: Pedir al usuario un numero y segun el numero que coloque decir el dia de la semana que es.
+
+##########################################################
+
+# Colores del Semáforo: pregunta al usuario un color y envia los siguientes mensajes:
+
+# Rojo: Detente
+# Amarillo: Preparate
+# Verde: Avanza
+
+##########################################################
+
+# Tipos de Datos: Compara el tipo de dato y arroja el dato que le corresponde:
+# Entero
+# Booleano
+# String
+# Flotante
+
+
+###########
+
+# NUM = 3
+
+
+# match NUM:
+#      case 1 , 2 , 3:
+#           print("Hello")
+#      case _:
+#           print("world")
+    
+
+# Que ejecuta esto?
+# a) Imprime Hello //////
+# b) Imprime World #Respuesta
+# c) da error / 
+# d) no da nada 
+
+##########
+
+# num = 1 / 2 / 3
+
+# match num:
+#      case 1 / 2 / 3:
+#           print("Hello")
+#      case _:
+#           print("world")
+
+# Que ejecuta esto?
+# a) Imprime Hello //
+# b) Imprime World ////
+# c) da error /
+# d) no da nada 
+
+##################################
+
+# Días de la Semana de lunes a domingo: Pedir al usuario un numero y segun el numero que coloque decir el dia de la semana que es.
+
+# 1. pedir al usuario un numero #👌
+# 2. comparar el numero con match. 👌
+# 3. decir el caso que le corresponde.👌
+
+# Registra el dia de la semana
+# dia_de_la_semana = int(input("Coloca un día de la semana de [1 a 7]"))
+
+# match dia_de_la_semana:
+#      case 1:
+#           print("Lunes")
+#      case 2:
+#           print("Martes")
+#      case 3:
+#           print("Miercoles")
+#      case 4:
+#           print("Jueves")
+#      case 5:
+#           print("Viernes")    
+#      case 6:
+#           print("Sabado")
+#      case 7:
+#           print("Domingo")
+#      case _:
+#           print("Escogiste el dia incorrecto")     
+
+##################################
+
+# Colores del Semáforo: pregunta al usuario un color y envia los siguientes mensajes:
+
+# Rojo: Detente
+# Amarillo: Preparate
+# Verde: Avanza
+
+# 1. pedir color al usuario
+# 2. comparar la variable con match
+# 3. Mostrar el caso segun el valor de la variable 
+
+# semaforo = str(input("Indique un color \n 1. verde \n 2. amarillo \n 3. rojo \n .......... \n"))
+
+# match semaforo:
+#      case "rojo":
+#           print("Detente")
+#      case "amarillo":
+#           print("Preparate")
+#      case "verde":
+#           print("Avanza")
+#      case _:
+#           print("No tiraste el numero correcto")
+          
+# Identificación de Forma Geométrica: pide al usuario la catidad de lados que tiene la figura y muestra el nombre de la posible figura. ((cantidad de lados)3, 4, 5, 6 (lados))
+
+# (3, 5)(5.1, 7)(7.1, 10)
+
+# NOTAS = float(input("ingresa la nota: "))
+
+# match NOTAS:
+     
+#      case NOTAS if NOTAS <= 5:
+#           print("perdio")
+#      case NOTAS if NOTAS > 5 and NOTAS <= 7:
+#           print("raspao")
+#      case NOTAS if NOTAS > 7 and NOTAS <= 10:
+#           print("gando")
+          
+
+# Clasificación de Edad:
+# Menor o igual de 13: Niño
+# mayor de 13 menor de < 18: Adolescente.
+# mayor a 18 y menor a 65: Adulto
+# mayor o igual a 65: Anciano
