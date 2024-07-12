@@ -616,3 +616,4 @@
 # mayor de 13 menor de < 18: Adolescente.
 # mayor a 18 y menor a 65: Adulto
 # mayor o igual a 65: Anciano
+
