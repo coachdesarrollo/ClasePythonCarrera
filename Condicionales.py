@@ -437,11 +437,7 @@
 
 # hallar el numero mayor de 3 numeros
 
-
-# Condicional Multiple
-
-
-
+####################################################
 
 
 
@@ -489,10 +485,11 @@
 
 #############################################################
 
+# Reto 22
 # Días de la Semana de lunes a domingo: Pedir al usuario un numero y segun el numero que coloque decir el dia de la semana que es.
 
 ##########################################################
-
+# Reto 23
 # Colores del Semáforo: pregunta al usuario un color y envia los siguientes mensajes:
 
 # Rojo: Detente
@@ -500,7 +497,7 @@
 # Verde: Avanza
 
 ##########################################################
-
+# Reto 24
 # Tipos de Datos: Compara el tipo de dato y arroja el dato que le corresponde:
 # Entero
 # Booleano
@@ -594,7 +591,8 @@
 #           print("Avanza")
 #      case _:
 #           print("No tiraste el numero correcto")
-          
+
+# Reto 24
 # Identificación de Forma Geométrica: pide al usuario la catidad de lados que tiene la figura y muestra el nombre de la posible figura. ((cantidad de lados)3, 4, 5, 6 (lados))
 
 # (3, 5)(5.1, 7)(7.1, 10)
@@ -611,6 +609,7 @@
 #           print("gando")
           
 
+# Reto 25
 # Clasificación de Edad:
 # Menor o igual de 13: Niño
 # mayor de 13 menor de < 18: Adolescente.

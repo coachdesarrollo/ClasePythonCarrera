@@ -16,6 +16,7 @@
 
 #########################################################################
 
+# Reto 26
 # Calculadora: Pide dos valores enteros, multiplicalos cada uno por aparte y dividelos cada uno por aparte entre 0 
 
 # try:
@@ -32,4 +33,5 @@
 # except:
 #     print("Error")
 
+# Reto 27
 # Calculadora: Pide al usuario dos numeros y preguntale que operacion quiere realizar, si el usuario quiere dividir entre 0 evitar el error y mostrar un mensaje que diga "No se puede dividir entre 0"
