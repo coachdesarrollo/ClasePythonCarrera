@@ -79,10 +79,10 @@
 #######################################
 
 # Reto 7
-# Pedir la edad y si es mayor o igual a 18 imprimir es mayor de edad si no imprimir es menor de edad
+# Pedir la edad y si es mayor o igual a 18 imprimir es mayor de edad si no imprimir es menor de edad y si es mayor a 65 es un adulto mayor
 
 # Reto 8
-# Determinar si es Mayor de Edad
+# Determinar si es Mayor de Edad 
 
 # edad = int(input("Cuantos años tienes: "))
 
@@ -256,7 +256,6 @@
 # print("Tu impositivo es: %s " %res)
 # print(f"Tu impositivo es: {res} ")
 # print("Tu impositivo es: {} ".format(res))
-
 
 
 # Reto 15
