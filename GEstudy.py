@@ -1,4 +1,4 @@
-# Entregar todos estos ejercicios con el titulo (numero del ejercicio) y su respectiva descripcion hasta el: Domingo 14 de Julio hasta las 2:00 P.M
+# Entregar todos estos ejercicios con el titulo (numero del ejercicio) y su respectiva descripcion hasta el: Domingo 14 de Julio hasta las 6:00 P.M
 
 # Ejercicio 1: Imprimir "Hola, Mundo" si la condición es verdadera
 # Escribe un programa que imprima "Hola, Mundo" si la variable condicion es verdadera.

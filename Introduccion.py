@@ -176,7 +176,7 @@
 
 ######################################
 
-# mostrar y pedir datos
+# pedir datos y mostrar
 
 # Reto 1
 # Pedir un nombre y pedir un apellido por aparte y luego concatenar
@@ -184,6 +184,13 @@
 # Reto 2
 # Contatenar el texto 
 # "Hola <nombre><apellido> Como estas"
+
+# NOMBRE = "David"
+# APELLIDO = "Torrenegra"
+
+# print("Hola", NOMBRE, APELLIDO, "Como estas")
+# print(f"Hola {NOMBRE}{APELLIDO} Como estas")
+# print("Hola {}{} Como estas".format(NOMBRE, APELLIDO))
 
 ######################################
 

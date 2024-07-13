@@ -13,8 +13,8 @@
 
 # print(describe_number(1))  # Uno
 # print(describe_number(5))  # Otro número
-# Días de la Semana:
 
+# Días de la Semana:
 
 # def day_of_week(day):
 #     match day:
@@ -36,6 +36,8 @@
 #             return "Día no válido"
 
 # print(day_of_week(3))  # Miércoles
+
+
 # Colores del Semáforo:
 
 # def traffic_light(color):
@@ -50,6 +52,8 @@
 #             return "Color no válido"
 
 # print(traffic_light("verde"))  # Avanza
+
+
 # Tipos de Datos:
 
 # data = 13
@@ -71,10 +75,10 @@
 #         print("Otro tipo de dato")
 
 # Decimal
+
+
 # Operaciones Matemáticas Simples:
 
-# python
-# Copy code
 # def simple_calculator(a, b, operation):
 #     match operation:
 #         case "suma":
@@ -89,10 +93,9 @@
 #             return "Operación no válida"
 
 # print(simple_calculator(10, 5, "suma"))  # 15
+
 # Estaciones del Año:
 
-# python
-# Copy code
 # def season(month):
 #     match month:
 #         case 12 | 1 | 2:
@@ -107,10 +110,9 @@
 #             return "Mes no válido"
 
 # print(season(4))  # Primavera
+
 # Clasificación de Edad:
 
-# python
-# Copy code
 # def age_group(age):
 #     match age:
 #         case age if age < 13:
@@ -125,10 +127,10 @@
 #             return "Edad no válida"
 
 # print(age_group(25))  # Adulto
+
+
 # Identificación de Forma Geométrica:
 
-# python
-# Copy code
 # def shape(sides):
 #     match sides:
 #         case 3:
