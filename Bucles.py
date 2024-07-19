@@ -34,13 +34,13 @@
 # Reto 7
 # Calcular el factorial de un número:
 
-num = int(input("Coloca el numero para allar el factorial: "))
+# num = int(input("Coloca el numero para allar el factorial: "))
 
-fact = 1
+# fact = 1
 
-for i in range(1, num + 1):
-    fact -= i
-    print(fact)
+# for i in range(1, num + 1):
+#     fact -= i
+#     print(fact)
 
 
 # Contador 
@@ -50,3 +50,12 @@ for i in range(1, num + 1):
 #         print(f"{i}.{j}")
 
 ##############################################################
+
+
+n = 10
+a = 0
+b = 1
+
+for i in range(n + 2):
+    print(a)
+    a, b = b, a + b

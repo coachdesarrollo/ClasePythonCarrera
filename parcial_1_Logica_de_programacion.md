@@ -31,6 +31,7 @@ Nota: El programa de debe realizar asignando valores a las variables.
 
 # Ejercicio 1: Cálculo de Paga: 
 Escribir un programa que pregunte al usuario por el número de horas trabajadas y el coste por hora. Después debe mostrar por pantalla la paga que le corresponde.
+
 # Ejercicio 2: Determinar si una persona es mayor de edad
 Escribir un programa el cual segun la edad que vas a ingresar te va a determinar si eres mayor de edad o no
 
