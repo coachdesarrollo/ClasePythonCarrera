@@ -1,6 +1,6 @@
 # Crea una tienda que te permita vender 10 articulos solo con condicionales. Esta tienda va a tener las siguientes espeficaciones.
 
-# Organización del Código: Mantén tu código limpio y organizado, separando las diferentes funcionalidades en funciones.
+# Organización del Código: Mantén tu código limpio y organizado, separando las diferentes.
 
 # Validación de Entradas: Asegúrate de validar las entradas del usuario para evitar errores.
 
