@@ -75,3 +75,4 @@ Calcular el número de combinaciones de n elementos tomados de r en r:
 
 # Ejercicio 26
 Imprimir una tabla de potencias del 1 al 10:
+
