@@ -109,14 +109,30 @@
 # Reto 9
 # Crea un temporizador de 3 dijitos (h, m, s)
 
-for i in range(10, -1, -1):
-    for j in range(60, -1 , -1):
-        for k in range(60, -1 , -1):
-            for g in range(60, -1 , -1):
-                print(f"{i},{j},{k},{g}")
+# for i in range(10, -1, -1):
+#     for j in range(60, -1 , -1):
+#         for k in range(60, -1 , -1):
+#             for g in range(60, -1 , -1):
+#                 print(f"{i},{j},{k},{g}")
 
 
 
 ##############################################################
 
 
+# Bucle while
+# var = True
+# num = 0
+
+# while var: # Se repite infinitamente hasta que el bucle sea falso
+#     num += 1
+#     print(num)
+    
+#     if num == 100:
+#         var = False
+
+# Reto 10
+
+# Escribe un programa que permita imprimir x cantidad de numeros
+    
+    
